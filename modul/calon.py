@@ -6,7 +6,6 @@ def tambahCalon():
 
     daftarCalon = load_data("data/calon.json")
 
-    # Validasi ID unik
     if any(c["id"] == idCalon for c in daftarCalon):
         print("ID calon sudah terdaftar!")
         return
