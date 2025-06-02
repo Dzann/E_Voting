@@ -1,0 +1,20 @@
+[
+    {
+        "id": "20241241",
+        "nama": "Dzann",
+        "jurusan": "TI",
+        "sudahMemilih": true
+    },
+    {
+        "id": "1",
+        "nama": "halo",
+        "jurusan": "ko",
+        "sudahMemilih": true
+    },
+    {
+        "id": "2",
+        "nama": "Gatau",
+        "jurusan": "Itu",
+        "sudahMemilih": false
+    }
+]
