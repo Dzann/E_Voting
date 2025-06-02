@@ -22,4 +22,17 @@ Sistem ini merupakan simulasi pemilu elektronik (e-voting) berbasis Python yang 
 
 ## 🗂️ Struktur Proyek
 
-```plaintext evoting/ ├── main.py # Menu utama CLI ├── modul/ │ ├── __init__.py │ ├── utils.py # Fungsi bantu: load_data, save_data │ ├── pemilih.py # Tambah pemilih │ ├── calon.py # Tambah calon ketua │ ├── voting.py # Proses pemungutan suara dan hasil │ └── statistik.py # Statistik partisipasi dan perolehan suara └── data/ ├── pemilih.json # Data pemilih (tersimpan sebagai list of dict) └── calon.json # Data calon ketua ```
+```plaintext
+evoting/
+├── main.py # Menu utama CLI
+├── modul/
+│   ├── __init__.py
+│   ├── utils.py # Fungsi bantu: load_data, save_data
+│   ├── pemilih.py # Tambah pemilih
+│   ├── calon.py # Tambah calon ketua
+│   ├── voting.py # Proses pemungutan suara dan hasil
+│   └── statistik.py # Statistik partisipasi dan perolehan suara
+└── data/
+    ├── pemilih.json # Data pemilih (tersimpan sebagai list of dict)
+    └── calon.json # Data calon ketua
+
