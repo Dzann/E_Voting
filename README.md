@@ -1,4 +1,4 @@
-# 🗳️ Simulasi E-Voting Pemilihan Ketua Organisasi Mahasiswa
+# Simulasi E-Voting Pemilihan Ketua Organisasi Mahasiswa
 
 Sistem ini merupakan simulasi pemilu elektronik (e-voting) berbasis Python yang digunakan untuk memilih ketua organisasi mahasiswa. Sistem ini mencakup pencatatan data pemilih dan calon ketua, proses pemungutan suara, serta statistik hasil pemilu.
 
@@ -6,16 +6,16 @@ Sistem ini merupakan simulasi pemilu elektronik (e-voting) berbasis Python yang 
 
 ## 📌 Fitur Utama
 
-- 📋 **Manajemen Pemilih**  
+- **Manajemen Pemilih**  
   Tambah pemilih baru dengan ID unik dan data jurusan.
 
-- 🧑‍💼 **Manajemen Calon Ketua**  
+- **Manajemen Calon Ketua**  
   Tambah calon ketua dengan data visi dan perhitungan suara otomatis.
 
-- ✅ **Pemungutan Suara (Voting)**  
+- **Pemungutan Suara (Voting)**  
   Validasi ID pemilih dan calon. Pemilih hanya dapat memilih satu kali.
 
-- 📊 **Hasil Sementara dan Statistik**  
+- **Hasil Sementara dan Statistik**  
   Menampilkan hasil perolehan suara dan statistik partisipasi pemilu.
 
 ---
